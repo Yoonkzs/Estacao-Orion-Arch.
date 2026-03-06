@@ -39,6 +39,6 @@ Sempre que uma nave médica chega, a Estação Órion precisa avisar os hospitai
 ```
 ## Observações
 
-Encontrei uma dificulde de entender o que foi exigido, por não saber o significado de alguns termos e não saber como funciona a estrutura de um read.me e como fazer um. Aprendi a como mexer no read.me do github e a importancia de se criar um.
+Encontrei uma dificuldade de entender o que foi exigido, por não saber o significado de alguns termos e não saber como funciona a estrutura de um read.me e como fazer um. Aprendi a como mexer no read.me do github e a importancia de se criar um.
 
 
